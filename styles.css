@@ -27,7 +27,13 @@ body {
     background-color: black;
     border: 2px solid orange;
     margin-bottom: 15px;
+    color: white;
+    font-size: 24px;
+   text-align: right;
+    padding-inline: 8px;
 }
+
+
 
 .button {
     height: 75px;
